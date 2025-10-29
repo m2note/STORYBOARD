@@ -1,0 +1,5 @@
+{
+  "name": "AI Storyboard Generator",
+  "description": "An AI-powered tool to generate a complete storyboard with images, prompts, and audio narration from a simple story idea and character images.",
+  "requestFramePermissions": []
+}
